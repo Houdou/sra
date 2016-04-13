@@ -1,0 +1,219 @@
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: Information Technology (EIE2282)
+Objectives: To introduce:
+1.database design, development, and programming 2. advanced database queries and database security 3. data warehousing and data mining
+Co-offering Department:
+Credit Value: 3.0
+Level: 3 
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 26 hours
+Tutorial/Lab/Practice Classes: 13 hours" where sid = "EIE3134";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: For 42070, 42077 and 05004: Computer Programming (ENG236)\; For 42079: NIL
+Objectives: This subject will provide students with the principles of object orientation from the perspective of Java implementation and UML. Students are expected to learn the concepts of and practical approaches to object-oriented analysis, design and programming using UML and Java.
+Co-offering Department:
+Credit Value: 3.0
+Level: 3 
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE320";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: For 42470: Basic Circuit Analysis (EIE2100), Basic Electronics (EIE2102), Analogue Circuit Fundamentals (EIE3100)
+Objectives: To develop an in-depth understanding of the design principles and applications of integrated analogue and digital circuits.
+Co-offering Department:
+Credit Value: 3.0
+Level: 3 
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE3305";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: NIL
+Objectives: To enable students to gain basic knowledge and understanding in the following aspects: 1. Fundamentals of semiconductors 2. The operating principles of pn junctions and MOSFETs 3. CMOS processes and basic CMOS logic gates 4. Fabrication processes of semiconductor devices
+Co-offering Department:
+Credit Value: 3.0
+Level: 3 
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE3306";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: NIL
+Objectives: To provide a broad treatment of the fundamentals of computer systems.
+Co-offering Department:
+Credit Value: 3.0
+Level: 3 
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE3311";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: NIL
+Objectives: 1. To provide solid foundation to students about the architectures and operations of communication networks. 2. To enable students to master the knowledge about computer networking in the context of real-life applications. 3. To prepare students to learn and to critically evaluate new knowledge and emerging technology in communication networks.
+Co-offering Department:
+Credit Value: 3.0
+Level: 3 
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE3333";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: Logic Design (EIE2261)
+Objectives: To provide students with the concepts and techniques required in designing computer hardware interfaces and embedded software for microcontrollers.
+Co-offering Department:
+Credit Value: 3.0
+Level: 3 
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE3373";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: NIL
+Objectives: Telecommunication systems enable the transfer and exchange of information over communication channels that are corrupted by disturbances and noises in a cost-effective manner. The major objectives of this subject are for the students to establish a firm foundation for the understanding of telecommunication systems, and the relationship among various technical and socio-economic factors when such systems are designed and operated.
+Co-offering Department:
+Credit Value: 3.0
+Level: 3 
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE3381";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: Data and computer Communications (EIE3333) or Computer Network (EIE3342)
+Objectives: 1. Give a practical treatment on the design, implementation, and management of IP networks. 2. Introduce the variety of facilities, technologies, and communication systems to meet future needs of network services. 3. Evaluate critically the performance of existing and emerging global communication networking technologies.
+Co-offering Department:
+Credit Value: 3.0
+Level: 4
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE4102";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: For 42470 and 42477: Logic Design (EIE2211) or Digital and Computer Systems (EIE2105)\; For 42479: NIL
+Objectives: This course aims at providing students with an understanding of the hardware architecture of mobile computing systems and the techniques essential to their design and implementations.
+Co-offering Department:
+Credit Value: 3.0
+Level: 4
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE4103";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: Data and Computer Communications (EIE3333) or Computer Network (EIE3342)
+Objectives: 1. Introduce the basic knowledge of mobile networks. 2. Introduce the variety of facilities, technologies, and communication systems to meet future needs of mobile network services. 3. Evaluate critically the performance of existing and emerging global mobile networking technologies.
+Co-offering Department:
+Credit Value: 3.0
+Level: 4
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE4104";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: For 42470 and 42477: Linear Systems (EIE3312) or Digital Signals and Systems (EIE3103)\; For 42479: NIL
+Objectives: This course aims at providing students with a basic understanding of the theory and applications of multimodal human computer interaction (HCI) technologies.
+Co-offering Department:
+Credit Value: 3.0
+Level: 4
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE4105";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: Communication Fundamentals (EIE3331)
+Objectives: 1. To introduce the basic concepts and design principles of the physical layer of wireless, cellular, and mobile communications. 2. To introduce the physical-layer basics of FDMA, TDMA, DS-CDMA, FHCDMA, OFDM.
+Co-offering Department:
+Credit Value: 3.0
+Level: 4
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE4107";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: Computer Networks (EIE3342)
+Objectives: To study the technical issues and system solutions for providing multimedia communications on the Internet.
+Co-offering Department:
+Credit Value: 3.0
+Level: 4
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE4428";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: NIL
+Objectives: Students will be most benefited from doing projects in order to have the chance to practise hands-on application of the knowledge the student has learned through the curriculum, while producing something useful or valuable. On this ground, the Honours Project (also called Final-Year Project or FYP in short) component in the curriculum is designed that meets the following objectives: 1. To provide the opportunity to the students to apply what they have learned in previous stages in a real-life technological problem 2. To enable the student to acquire and practise project management skills and discipline on pursuing the Honours Project 3. To enable the student to apply knowledge in internet and multimedia technologies to analyse problems and synthesize solutions while considering various practical constraints.
+Co-offering Department:
+Credit Value: 6.0
+Level: 4 
+Duration: 2 semesters
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE4430";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: NIL
+Objectives: Engineering is the science of solve problems by applying scientific principles and technology in order to improve human life. This may take the form of invention, design, implementation, so on and so forth. It is important for students to have the chance to design and implement solutions to existing problems while considering various constraints. They will also have the chance to apply the knowledge they have learned throughout the curriculum. The Honours Project (also called Final-Year Project or FYP in short) in the curriculum is designed with the following objectives: 1. To provide the opportunity to the students so that they can apply what they have learnt in previous stages in a real-life engineering context. 2. To enable the students to acquire and practise project management skills and discipline while pursuing the Honours Project. 3. To enable the student to apply engineering knowledge in analysis of problems and synthesis of solution while considering various constraints.
+Co-offering Department:
+Credit Value: 6.0
+Level: 4 
+Duration: 2 semester
+Consecutive Pattern:
+Student Contact Hours:
+Structured Study: 78 hours" where sid =  "EIE4433";
+
+
+Update subject set description = "Offering Department: DEPARTMENT OF INFORMATION ENGINEERING
+Pre-requisite: For 42470: Probability and Engineering Statistics (AMA2104) and Computer Programming (ENG2002)\; For 42479: Computer Programming (ENG2002)
+Objectives: To introduce 1. a broad range of bioengineering systems, 2. the engineering foundation of bio-signal data collection, 3. a sample of data analysis techniques for biomedical engineering.
+Co-offering Department:
+Credit Value: 3.0
+Level: 4 
+Duration: 1 semester
+Consecutive Pattern:
+Student Contact Hours:
+Lecture: 24 hours
+Tutorial/Lab/Practice Classes: 15 hours" where sid =  "EIE4448";

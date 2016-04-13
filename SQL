@@ -1,0 +1,63 @@
+users
++-------+---------------+------+-----+---------+-------+
+| Field | Type          | Null | Key | Default | Extra |
++-------+---------------+------+-----+---------+-------+
+| uid   | char(9)       | NO   | PRI | NULL    |       |
+| uname | varchar(255)  | NO   |     | NULL    |       |
+| hash  | char(32)      | NO   |     | NULL    |       |
+| sex   | enum('M','F') | NO   |     | M       |       |
+| dept  | varchar(10)   | NO   |     | NULL    |       |
+| email | tinytext      | NO   |     | NULL    |       |
++-------+---------------+------+-----+---------+-------+
+
+comment
++---------+-------------+------+-----+-------------------+-----------------------------+
+| Field   | Type        | Null | Key | Default           | Extra                       |
++---------+-------------+------+-----+-------------------+-----------------------------+
+| cid     | int(11)     | NO   | PRI | NULL              | auto_increment              |
+| sid     | varchar(16) | NO   | MUL | NULL              |                             |
+| uid     | char(9)     | NO   | MUL | NULL              |                             |
+| content | text        | YES  |     | NULL              |                             |
+| time    | timestamp   | NO   |     | CURRENT_TIMESTAMP | on update CURRENT_TIMESTAMP |
++---------+-------------+------+-----+-------------------+-----------------------------+
+
+dept
++-------+------------+------+-----+---------+-------+
+| Field | Type       | Null | Key | Default | Extra |
++-------+------------+------+-----+---------+-------+
+| code  | varchar(4) | NO   | PRI | NULL    |       |
+| name  | tinytext   | NO   |     | NULL    |       |
+| web   | text       | YES  |     | NULL    |       |
++-------+------------+------+-----+---------+-------+
+
+rate
++-------+-----------------------+------+-----+---------+-------+
+| Field | Type                  | Null | Key | Default | Extra |
++-------+-----------------------+------+-----+---------+-------+
+| sid   | varchar(16)           | NO   | PRI | NULL    |       |
+| uid   | char(9)               | NO   | PRI | NULL    |       |
+| rate  | tinyint(100) unsigned | NO   |     | NULL    |       |
++-------+-----------------------+------+-----+---------+-------+
+
+schedule
++------------+-------------+------+-----+---------+----------------+
+| Field      | Type        | Null | Key | Default | Extra          |
++------------+-------------+------+-----+---------+----------------+
+| classid    | int(11)     | NO   | PRI | NULL    | auto_increment |
+| sid        | varchar(16) | NO   | MUL | NULL    |                |
+| sgroup     | int(4)      | NO   |     | NULL    |                |
+| type       | char(6)     | NO   |     | NULL    |                |
+| timeslot   | char(20)    | NO   |     | NULL    |                |
+| venue      | varchar(64) | YES  |     | NULL    |                |
+| teachstaff | varchar(64) | YES  |     | NULL    |                |
++------------+-------------+------+-----+---------+----------------+
+
+subject
++-------------+-------------+------+-----+---------+-------+
+| Field       | Type        | Null | Key | Default | Extra |
++-------------+-------------+------+-----+---------+-------+
+| sid         | varchar(16) | NO   | PRI | NULL    |       |
+| sname       | tinytext    | NO   |     | NULL    |       |
+| dept        | varchar(4)  | NO   | MUL | NULL    |       |
+| description | tinytext    | YES  |     | NULL    |       |
++-------------+-------------+------+-----+---------+-------+
